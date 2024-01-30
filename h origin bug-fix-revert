@@ -1,0 +1,49 @@
+[33mcommit 291c747b7f3c17f5895d97daf33fbaa4fd274f5c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbug-fix-revert[m[33m, [m[1;31morigin/bug-fix-typo[m[33m, [m[1;31morigin/bug-fix-revert[m[33m, [m[1;32mmain[m[33m, [m[1;32mbug-fix-typo[m[33m)[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:59:19 2024 +0100
+
+    Fixa typo i README.md
+
+[33mcommit e5bd60eabd3d200bb4d39c9563b7fcd4b8179067[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:36:46 2024 +0100
+
+    Uppdaterade CONTRIBUTING.md
+
+[33mcommit 09577928669a19fad14ddad185c3ec5b8bc39449[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:29:20 2024 +0100
+
+    nyändring
+
+[33mcommit f2874549210d025944bab07cc1d1c2302970fdca[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:27:28 2024 +0100
+
+    Lägger till simple-interest.sh skriptet
+
+[33mcommit be9dd810543f5486732f20ace8bd6e3bb417b4e2[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:22:33 2024 +0100
+
+    Lägg till Code of Conduct
+
+[33mcommit 101d4236a8eea630b52f42ebf90679cde970464c[m
+Author: dhbergs <you@example.com>
+Date:   Tue Jan 30 12:09:47 2024 +0100
+
+    ändrad
+
+[33mcommit 749054eb866a59342eaa148971a0b6dcc34ca84b[m
+Author: Dhbergs <157037155+pinoyinvestor@users.noreply.github.com>
+Date:   Tue Jan 30 11:41:23 2024 +0100
+
+    Update README.md
+    
+    Changed README
+
+[33mcommit 433a726a1622e046a3a642f916ff5d880220c63f[m
+Author: Dhbergs <157037155+pinoyinvestor@users.noreply.github.com>
+Date:   Tue Jan 30 11:38:39 2024 +0100
+
+    Initial commit

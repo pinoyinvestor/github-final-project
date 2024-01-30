@@ -13,4 +13,4 @@ This is a simple interest calculator that calculates the simple interest given p
 - Simple interest = p * t * r
 
 
-2023 XYZ
+2022 XYZ
