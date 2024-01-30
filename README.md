@@ -1,3 +1,5 @@
+
+
 # Simple Interest Calculator
 
 This is a simple interest calculator that calculates the simple interest given principal, annual rate of interest, and time period in years.
@@ -9,3 +11,6 @@ This is a simple interest calculator that calculates the simple interest given p
 
 ## Output
 - Simple interest = p * t * r
+
+
+2023 XYZ
