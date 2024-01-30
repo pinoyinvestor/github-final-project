@@ -1,0 +1,31 @@
+# Contribution Guidelines
+
+We welcome all contributions to this project, including but not limited to:
+
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Enhancements
+- New ideas and features
+
+Please follow these guidelines when contributing to the project:
+
+1. Create a new branch for your contribution:
+   - Use a descriptive branch name that summarizes your contribution, e.g., `fix-bug-123` or `feature-new-idea`.
+   - Make sure your branch is based on the `main` branch.
+
+2. Make your changes and commit them:
+   - Keep your commits focused and provide clear and concise commit messages.
+   - Reference any related issues or pull requests in your commits using keywords like `Fixes #123` or `Closes #456`.
+
+3. Submit a pull request (PR):
+   - Clearly describe your changes and the problem or feature they address in the PR description.
+   - Include a reference to any related issues or PRs.
+   - Follow the code style and formatting conventions of the project.
+   - Ensure that your changes pass any existing tests or add new tests as needed.
+
+4. Collaborate and iterate:
+   - Be open to feedback and constructive criticism.
+   - Be responsive to comments on your PR and be prepared to make further changes if necessary.
+
+Thank you for your contributions and for helping make this project better!
